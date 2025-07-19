@@ -1,6 +1,6 @@
 
-![CI](https://img.shields.io/github/actions/workflow/status/your-org/nlr-predictor/test.yml?label=CI&logo=github)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-org/nlr-predictor/blob/main/notebooks/nlr_predictor_colab.ipynb)
+![CI](https://img.shields.io/github/actions/workflow/status//happyeternitycompanydotcom/experiments-nlr-predictor/test.yml?label=CI&logo=github)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happyeternitycompanydotcom/experiments-nlr-predictor/blob/main/notebooks/nlr_predictor_colab.ipynb)
 
 # 🧠 NLR-Predictor
 
