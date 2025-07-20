@@ -209,3 +209,6 @@ __marimo__/
 # Project folders to ignore
 data/
 
+
+venv/
+

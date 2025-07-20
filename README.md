@@ -1,6 +1,6 @@
 
 ![CI](https://img.shields.io/github/actions/workflow/status//happyeternitycompanydotcom/experiments-nlr-predictor/test.yml?label=CI&logo=github)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happyeternitycompanydotcom/experiments-nlr-predictor/blob/main/notebooks/nlr_predictor_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happyeternitycompanydotcom/experiments-nlr-predictor/blob/main/nlr_predictor_colab.ipynb)
 
 # 🧠 NLR-Predictor
 
@@ -24,7 +24,7 @@ Untested.
 
 ## 🚀 Quickstart (Colab)
 
-1. Open `notebooks/nlr_predictor_colab.ipynb` in [Google Colab](https://colab.research.google.com/)
+1. Open `nlr_predictor_colab.ipynb` in [Google Colab](https://colab.research.google.com/)
 2. Follow the steps
 
 ## 🖥 Local Setup
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 2. Run notebook:
 ```bash
-jupyter notebook notebooks/nlr_predictor_colab.ipynb
+jupyter notebook nlr_predictor_colab.ipynb
 ```
 
 ---
